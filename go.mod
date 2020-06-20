@@ -1,4 +1,4 @@
-module github.com/linkedin/goavro/v2
+module github.com/gauravds/goavro-withunion
 
 go 1.12
 
